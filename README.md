@@ -13,5 +13,10 @@ Materiales:
 
 1 Protoboard
 
-y muchos cables cortos
+y muchos cables cortos.
+
+
+Modelo:
+
+https://drive.google.com/file/d/0B62lh7UsF5lDU3hZdFFiSFppclE/view?usp=sharing
 
